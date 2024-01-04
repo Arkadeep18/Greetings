@@ -7,7 +7,7 @@ public class Prac4Switch {
         System.out.println("Enter Button");
         int Button = sc.nextInt();
         
-        //if we select 1 it'll show "Hello", for 2 it shows "Namaste" and so on
+        //if hit button 1, it'll show "Hello", for 2 it'll show "Namaste" and so on...
         
         switch(Button) {
         case 1: System.out.println("Hello");
